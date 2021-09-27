@@ -6,5 +6,7 @@ image: ../uploads/stocksnap_nkh5toehrs.jpg
 title_color: "#060505"
 caption: Different typefaces printed on money
 comments: false
+tags:
+  - Design
 ---
-![]()
+![shkjkjffkw;afd jhdsahuioiuyeb urKDWHSKA WJEK](../uploads/stocksnap_nkh5toehrs.jpg "Testing the body text right here right now")
