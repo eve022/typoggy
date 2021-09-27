@@ -3,11 +3,12 @@ description: A website with a blog
 footer_text: Copyright 2021 Eve Reekie
 header_feature_image: ../uploads/books4screen.jpg
 header_text: Typoggers
-header_text_color: "#ffffff"
-bannerheight: 20vmax
+header_text_color: "#8d8e88"
+bannerheight: 100vh
 navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items: []
