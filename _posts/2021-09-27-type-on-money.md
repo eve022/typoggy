@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Type on money
+title: Type in pizza chains
 date: 2021-09-27T13:04:42.858Z
-image: ../uploads/stocksnap_nkh5toehrs.jpg
+image: ../uploads/img_7623.heic
 title_color: "#060505"
 caption: Different typefaces printed on money
 comments: false
 tags:
   - Design
 ---
-![shkjkjffkw;afd jhdsahuioiuyeb urKDWHSKA WJEK](../uploads/stocksnap_nkh5toehrs.jpg "Testing the body text right here right now")
+![shkjkjffkw;afd jhdsahuioiuyeb urKDWHSKA WJEK](../uploads/img_7623.heic "Testing the body text right here right now")
