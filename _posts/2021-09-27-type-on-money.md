@@ -3,7 +3,7 @@ layout: post
 title: Type in pizza chains
 date: 2021-09-27T13:04:42.858Z
 image: ../uploads/img_7623.jpg
-title_color: "#060505"
+title_color: "#f7f6f6"
 caption: ""
 comments: false
 tags:
