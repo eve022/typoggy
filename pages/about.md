@@ -1,6 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About Me
+image: ../uploads/f79314ea-f79e-4681-b6c7-75448ccaf13c.jpeg
 subtitle: "All about me and my life "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
