@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Type in pizza chains
+title: Battle Of The Pizza Chains
 date: 2021-09-27T13:04:42.858Z
 image: ../uploads/img_7623.jpg
 title_color: "#f7f6f6"
