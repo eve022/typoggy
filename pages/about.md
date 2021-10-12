@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: All About Eve
-image: ../uploads/84b71f01-af5e-464e-879b-bb22cfa8c0df.jpeg
+image: ../uploads/1951a92f-b8bd-4529-824f-7e774218a59d.jpeg
 subtitle: About my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
@@ -19,4 +19,4 @@ I love expressing my own thoughts through creative writing from time to time, as
 
 I am very comfortable around people and working in a team is one of my strengths as I'm currently the captian of the Brookes squash team for women. I would say I'm cheerful and see the positive things in a bad situation; I always try to save the day. I'm creative and I've made numerous short movies with my friends that have been shown to many audiences.
 
-![](../uploads/bba3abbe-0315-4550-8eac-fa083bbd22d4.jpeg "The thing I miss most whilst I'm away studying is my dog, here is a picture of her.")
+![The thing I miss most whilst I'm away studying is my dog, here is a picture of her.](../uploads/bba3abbe-0315-4550-8eac-fa083bbd22d4.jpeg "The thing I miss most whilst I'm away studying is my dog, here is a picture of her.")
