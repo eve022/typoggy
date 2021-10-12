@@ -8,4 +8,4 @@ caption: Japanese and Chinese influenced restaurants do they take from
   traditional designs for their own branding?
 comments: true
 ---
-Okay so I will write this at another time
+To be written...
