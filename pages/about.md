@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About Me
+title: All About Eve
 image: ../uploads/84b71f01-af5e-464e-879b-bb22cfa8c0df.jpeg
-subtitle: "All about me and my life "
+subtitle: About my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -11,11 +11,12 @@ tags: null
 description: null
 show: true
 ---
+I am a second year student at Oxford Brookes studying Media Journalism and Publishing. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I chose this degree because I find exploring language and meaning in media very intresting. Finding semiotics and different codes is something I'm very good at, and I think I will go into advertising in the future because building brand campaigns is something I'm fascinated by.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I love expressing my own thoughts through creative writing from time to time, as, I feel there is so much to comment on in the world today.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+I am very comfortable around people and working in a team is one of my strengths as I'm currently the captian of the Brookes squash team for women. I would say I'm cheerful and see the positive things in a bad situation; I always try to save the day. I'm creative and I've made numerous short movies with my friends that have been shown to many audiences.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+![](../uploads/bba3abbe-0315-4550-8eac-fa083bbd22d4.jpeg "The thing I miss most whilst I'm away studying is my dog, here is a picture of her.")
