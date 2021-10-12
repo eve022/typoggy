@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: All About Eve
+title: A bit about my life
 image: ../uploads/1951a92f-b8bd-4529-824f-7e774218a59d.jpeg
-subtitle: About my life
+subtitle: All About Eve
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
