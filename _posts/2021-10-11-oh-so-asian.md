@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh So Asian!
+title: Oh So Asian
 date: 2021-10-11T14:29:55.876Z
 image: ../uploads/yo-sushi-logo.jpg
 title_color: "#080808"
