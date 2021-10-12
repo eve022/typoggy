@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: A bit about my life
+title: A Bit About My Life
 image: ../uploads/1951a92f-b8bd-4529-824f-7e774218a59d.jpeg
 subtitle: All About Eve
 permalink: /about/
