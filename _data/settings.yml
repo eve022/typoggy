@@ -11,4 +11,6 @@ favicon: ../uploads/favicon.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: All about Eve
+    siteurl: /aboutme/
