@@ -11,12 +11,8 @@ tags: null
 description: null
 show: true
 ---
-I am a second year student at Oxford Brookes studying Media Journalism and Publishing. 
+I chose to explore this theme for typography because I thought that as consumers a type of writing we are constantly taking is that from food. I think that there is a lot to be said for what connection our eating habits have with what brand we associate with. How do companies attract us with their typography in something as everyday as fast food. 
 
-I chose this degree because I find exploring language and meaning in media very intresting. Finding semiotics and different codes is something I'm very good at, and I think I will go into advertising in the future because building brand campaigns is something I'm fascinated by.
+I researched typography jargon and tropes. I then analysed the semantics of the brand's indenties and looked at articles and the history of the 
 
-I love expressing my own thoughts through creative writing from time to time, as, I feel there is so much to comment on in the world today.
-
-I am very comfortable around people and working in a team is one of my strengths as I'm currently the captian of the Brookes squash team for women. I would say I'm cheerful and see the positive things in a bad situation; I always try to save the day. I'm creative and I've made numerous short movies with my friends that have been shown to many audiences.
-
-![]( "The thing I miss most whilst I'm away studying is my dog, here is a picture of her.")
+![]()
