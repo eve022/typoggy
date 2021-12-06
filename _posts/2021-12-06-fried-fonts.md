@@ -2,6 +2,7 @@
 layout: post
 title: Fried Fonts
 date: 2021-12-06T21:36:02.964Z
+image: ../uploads/ddd077a9b2b6e63206169e696e92cd1e.jpg
 title_color: "#ffffff"
 caption: "Fried Chicken fast food chains and how they use typography to create a
   brand that sells. "
