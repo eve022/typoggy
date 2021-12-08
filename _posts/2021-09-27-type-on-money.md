@@ -9,13 +9,9 @@ comments: false
 tags:
   - Design
 ---
-**Papa Johns**
+**Papa Johns.** First the very popular Papa John’s, consumed worldly, this pizza company has customers always coming back for more. The font used is very similar to Aachen bold, which is a slab serif font. It was designed by Colin Brignell in 1969. This typeface features sharp outlines, heavy strokes and stubby serifs. Often used in headlines, posters, signs and other display uses. Along with the enlarged letters in the middle and vibrant red and green colours Papa John’s font is clearly trying to make a statement. It’s bright, loud and has a strong looking font. The red, white and green also connotes it’s an Italian pizzeria. 
 
-First the very popular Papa John’s, consumed worldly, this pizza company has customers always coming back for more. The font used is very similar to Aachen bold, which is a slab serif font. It was designed by Colin Brignell in 1969. This typeface features sharp outlines, heavy strokes and stubby serifs. Often used in headlines, posters, signs and other display uses. Along with the enlarged letters in the middle and vibrant red and green colours Papa John’s font is clearly trying to make a statement. It’s bright, loud and has a strong looking font. The red, white and green also connotes it’s an Italian pizzeria. 
-
-**Pizza Express**
-
-They use the font Art Nouveau, which is encased in a circle filled with swirly over lapping lines. This font looks sophisticated, expensive and luxury. This is because of the fonts embellished stroke endings, diagonal and triangular character shapes, top and bottom-weighted stresses and very high and low waistlines. The font in the past has been used for paintings, sculptures and architecture, suggesting Pizza Express is trying to go for an art deco style look, honing in on the Italian art scene to sell a more sophisticated restaurant. Unlike Papa Johns or Pizza Hut their logo and font use connote they sell a higher-class pizza. 
+**Pizza Express.** They use the font Art Nouveau, which is encased in a circle filled with swirly over lapping lines. This font looks sophisticated, expensive and luxury. This is because of the fonts embellished stroke endings, diagonal and triangular character shapes, top and bottom-weighted stresses and very high and low waistlines. The font in the past has been used for paintings, sculptures and architecture, suggesting Pizza Express is trying to go for an art deco style look, honing in on the Italian art scene to sell a more sophisticated restaurant. Unlike Papa Johns or Pizza Hut their logo and font use connote they sell a higher-class pizza. 
 
 ![](../uploads/pngkey.com-wendys-logo-png-544260.png "pizza express logo")
 
