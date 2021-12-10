@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pizza Chain Battles "
+title: Battle of the Pizza Chains
 date: 2021-09-27T13:04:42.858Z
 image: ../uploads/8615239a5f83709bd120c0f54cc3c598.jpg
 title_color: "#f7f6f6"
