@@ -11,7 +11,7 @@ tags: null
 description: null
 show: true
 ---
-I chose to explore this theme for typography because, I thought that as consumers a type of writing we are always taking in is that from food companies. I think that there is a lot to be said for what connection our eating habits have with what brand we associate with. I wanted to know how companies attract us with their typography in something as everyday as fast food.  
+I chose to explore this theme for typography because, I thought that as consumers a subject of writing we are always taking in is food. I think there's a lot to be said for what connection our eating habits have with what brand we associate with. I wanted to know how companies attract us with their typography in something as everyday as fast food.  
 
 I researched typography jargon and tropes. I then analysed the semantics of the brand's identities and looked at articles and the history of the restaurant's staple styles. I chose my fast-food restaurants based off popularity and how iconic they are. This way I could compare some of the characteristics and understand more behind the design of successful branding.  
 
