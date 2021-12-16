@@ -23,4 +23,4 @@ The Pizza Hut logo uses a font called hot pizza which is a bespoke typeface crea
 
 The Dominos font I’ve never really noticed before because it’s overshadowed by the clever logo design. In fact, all they use is Futura and the writing for Dominos itself is simply Futura bold with no special features only that the kerning is a bit tighter than regular. This is because when you build a great brand like the domino symbol, customers don’t even look at the name because they already know what comapny it is. Just like McDonalds, they could put their iconic M on a box and people would easily guess what the brand is. Interestingly it has even got to the point where all they are putting on a pizza box is the blue or red background and one circle in the middle because that’s all they need to tell the audience it’s good pizza. 
 
-![](../uploads/pizza-boxes-gc123fc468_1920.jpg "Pizza Boxes Example")
+![](../uploads/pizza-boxes-gc123fc468_1920.jpg "Some Pizza Boxes")
