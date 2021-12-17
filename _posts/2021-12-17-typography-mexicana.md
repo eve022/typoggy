@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typography Mexicana
+title: Escribe Mexicana
 date: 2021-12-17T01:49:55.592Z
 image: ../uploads/678f8e9e12785500ac4c7dd4e44d96cb.jpg
 title_color: "#ffffff"
