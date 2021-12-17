@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asian Culinary Designs "
+title: Asian Culinary Charm
 date: 2021-10-11T14:29:55.876Z
 image: ../uploads/b8565f604ed1edd242ddb3dc0750f64d.jpg
 title_color: "#080808"
