@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Asian Culinary Designs "
+title: Asian Culinary Charm
 date: 2021-10-11T14:29:55.876Z
-image: ../uploads/b8565f604ed1edd242ddb3dc0750f64d.jpg
+image: ../uploads/00d6a700a45d439ae8e11d06025c83cd.jpg
 title_color: "#080808"
 caption: Japanese, Korean and Chinese influenced restaurants, how do they take
   from their culture to design their own brand?
